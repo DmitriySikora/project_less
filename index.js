@@ -30,3 +30,5 @@ console.log(ob.name);
 
 let arr = [`plum.png`, `orfr.ke`, `lfofo`, 255];
 console.log(arr[0]); 
+
+console.log('testing git');
