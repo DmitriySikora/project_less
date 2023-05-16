@@ -16,3 +16,5 @@ console.log("ширины кузова авто: " + autoWidth + " height: " + a
 const COLOR_RED = '#F00';
 
 alert('Hello');
+
+console.log(' girkraken');
